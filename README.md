@@ -66,3 +66,5 @@ Follow these steps after installing Windows to restore the GRUB bootloader:
 After completing these steps, restart your computer. You should now see the GRUB menu during startup, allowing you to choose between Ubuntu and Windows.
 
 Good luck with your dual-boot setup!
+
+[ChatGPT: Windows Boot Manager now visible in GRUB](https://chatgpt.com/s/t_69a742f94ea88191a21abb7920d9cbd7)
