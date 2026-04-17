@@ -67,4 +67,4 @@ After completing these steps, restart your computer. You should now see the GRUB
 
 Good luck with your dual-boot setup!
 
-[ChatGPT: Windows Boot Manager now visible in GRUB](https://chatgpt.com/s/t_69a742f94ea88191a21abb7920d9cbd7)
+[ChatGPT: Windows Boot Manager not visible in GRUB](https://chatgpt.com/s/t_69a742f94ea88191a21abb7920d9cbd7)
